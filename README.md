@@ -4,7 +4,6 @@ layout: default
 description: "This is my professional resume."
 ---
 
-<div class="container">
 # Welcome to My Resume
 
 Hi, I'm John Doe, a Full Stack Developer with experience in building web applications and working with cloud technologies.
@@ -19,4 +18,3 @@ Hi, I'm John Doe, a Full Stack Developer with experience in building web applica
 - Junior Developer at ABC (2018–2020)
 
 [Download Resume PDF](resume.pdf)
-</div>

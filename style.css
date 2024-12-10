@@ -9,11 +9,3 @@ body {
     background-color: #f4f4f9; /* Optional: Set a background color */
 }
 
-.container {
-    text-align: center; /* Center align text */
-    max-width: 800px; /* Optional: Limit width for readability */
-    padding: 20px;
-    background: #ffffff; /* Optional: Add a white background */
-    border-radius: 8px; /* Optional: Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
-}

@@ -1,23 +1,19 @@
+/* Center the content vertically and horizontally */
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default body margin */
+    font-family: Arial, sans-serif; /* Optional: Set a clean font */
+    background-color: #f4f4f9; /* Optional: Set a background color */
+}
+
+.container {
+    text-align: center; /* Center align text */
+    max-width: 800px; /* Optional: Limit width for readability */
     padding: 20px;
-}
-
-h1 {
-    color: #333;
-}
-
-h2 {
-    color: #007bff;
-}
-
-p, ul {
-    color: #555;
-}
-
-ul {
-    list-style-type: none;
+    background: #ffffff; /* Optional: Add a white background */
+    border-radius: 8px; /* Optional: Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
 }

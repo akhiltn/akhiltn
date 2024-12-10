@@ -36,9 +36,3 @@ Experienced Full Stack Developer with a passion for building scalable web applic
 ## Certifications
 - AWS Certified Solutions Architect – Associate
 - Google Cloud Professional Cloud Developer
-
-## Download my Resume
-
-You can download my resume in PDF format from the following link:
-
-[Download my resume as PDF](resume.pdf)

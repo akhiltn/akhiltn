@@ -1,7 +1,7 @@
-/* Backbone CSS for Resume Template 1 */
+---
+---
 
-/* Basic */
-
+@import "{{ site.theme }}";
 #vue-smart-pages-preview {
   background-color: white;
   color: black;

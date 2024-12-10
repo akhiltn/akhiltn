@@ -1,11 +1,10 @@
-/* Center the content vertically and horizontally */
 body {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Full viewport height */
-    margin: 0; /* Remove default body margin */
+    justify-content: center; /* Horizontal centering */
+    align-items: center;    /* Vertical centering */
+    height: 100vh;          /* Full viewport height */
+    margin: 0;              /* Remove default margin */
     font-family: Arial, sans-serif; /* Optional: Set a clean font */
-    background-color: #f4f4f9; /* Optional: Set a background color */
+    background-color: #f4f4f9;      /* Optional: Light background color */
+    text-align: center;     /* Center text alignment */
 }
-

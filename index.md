@@ -1,11 +1,11 @@
 ---
 title: akhiltn
 ---
-# Akhil Thundiyil Narendran
+# Akhil Thundiyil Narendran  
 
-[**Website**](https://akhiltn.dev) : [**GitHub**](https://github.com/akhiltn) : [**Phone**](https://wa.me/917829211234) : [**LinkedIn**](https://www.linkedin.com/in/akhiltn) : [**Email**](mailto:tnakhil@gmail.com)
-
-**Location:** Bangalore, India  
+| 👤 [**akhiltn.dev**](https://akhiltn.dev)       | 🐙 [**github.com/akhiltn**](https://github.com/akhiltn)         | 📞 [(+91) 78292 11234](https://wa.me/917829211234) |
+|:--------------------------------------------|:----------------------------------------------------|:---------------------------------------------------|
+| 📍 **Location:** Bangalore, India          | 🔗 [**linkedin.com/in/akhiltn**](https://www.linkedin.com/in/akhiltn) | 📧 [**tnakhil@gmail.com**](mailto:tnakhil@gmail.com)          |
 
 ---
 ## Summary

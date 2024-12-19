@@ -1,3 +1,6 @@
+---
+title: akhiltn
+---
 # Akhil Thundiyil Narendran
 
 [**Website**](https://akhiltn.dev) : [**GitHub**](https://github.com/akhiltn) : [**Phone**](https://wa.me/917829211234) : [**LinkedIn**](https://www.linkedin.com/in/akhiltn) : [**Email**](mailto:tnakhil@gmail.com)

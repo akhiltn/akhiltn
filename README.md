@@ -1,16 +1,10 @@
 # Akhil Thundiyil Narendran
-<table>
-   <tr>
-      <td align="center">👤 [**Website**](https://akhiltn.dev)</td>
-      <td align="center">🐙 [**GitHub**](https://github.com/akhiltn)</td>
-      <td align="center">📞 [(+91) 78292 11234](https://wa.me/917829211234)</td>
-   </tr>
-   <tr>
-      <td align="center">📍 **Location:** Bangalore, India</td>
-      <td align="center">🔗 [**LinkedIn**](https://www.linkedin.com/in/akhiltn)</td>
-      <td align="center">📧 [**Email**](mailto:tnakhil@gmail.com)</td>
-   </tr>
-</table>
+# Akhil Thundiyil Narendran  
+
+| 👤 [**Website**](https://akhiltn.dev)       | 🐙 [**GitHub**](https://github.com/akhiltn)         | 📞 [(+91) 78292 11234](https://wa.me/917829211234) |
+|--------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| 📍 **Location:** Bangalore, India          | 🔗 [**LinkedIn**](https://www.linkedin.com/in/akhiltn) | 📧 [**Email**](mailto:tnakhil@gmail.com)          |
+
 
 [**Website**](https://akhiltn.dev)
 

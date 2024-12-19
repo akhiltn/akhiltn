@@ -12,7 +12,7 @@
   <span style="font-size:1.5em;">🔗</span> [**LinkedIn**](https://www.linkedin.com/in/akhiltn) &nbsp;|&nbsp;
   <span style="font-size:1.5em;">📧</span> [**Email**](mailto:tnakhil@gmail.com)
 </p>
-
+📧
 
 ---
 ## Summary

@@ -1,4 +1,3 @@
-# Akhil Thundiyil Narendran
 # Akhil Thundiyil Narendran  
 
 | 👤 [**akhiltn.dev**](https://akhiltn.dev)       | 🐙 [**github.com/akhiltn**](https://github.com/akhiltn)         | 📞 [(+91) 78292 11234](https://wa.me/917829211234) |

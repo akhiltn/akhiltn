@@ -1,7 +1,7 @@
 # Akhil Thundiyil Narendran
 # Akhil Thundiyil Narendran  
 
-| 👤 [**Website**](https://akhiltn.dev)       | 🐙 [**GitHub**](https://github.com/akhiltn)         | 📞 [(+91) 78292 11234](https://wa.me/917829211234) |
+| 👤 [**akhiltn.dev**](https://akhiltn.dev)       | 🐙 [**GitHub**](https://github.com/akhiltn)         | 📞 [(+91) 78292 11234](https://wa.me/917829211234) |
 |:--------------------------------------------|----------------------------------------------------|---------------------------------------------------|
 | 📍 **Location:** Bangalore, India          | 🔗 [**LinkedIn**](https://www.linkedin.com/in/akhiltn) | 📧 [**Email**](mailto:tnakhil@gmail.com)          |
 

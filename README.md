@@ -7,8 +7,9 @@
 
 ---
 ## Summary
-Software Engineer with 11+ years of experience in Full Stack Development focused in the Banking and FinOps domain, designing web applications using Go, Python, and Java. Specialises in RESTful APIs, Spring Boot, Angular/TypeScript, ETL, Data Engineering, AWS Cloud Solutions, microservices, process optimisation, and strategic reporting. Demonstrates expertise as a lead engineer in reducing costs through AWS migrations, optimising cloud database replication, upgrading Spring Boot applications, streamlining workflows, enhancing ETL data pipelines, adopting OAuth2 security protocols, and improving UI/UX with Angular Material upgrades. Skilled in collaboration, stakeholder management, and delivering high-quality solutions aligned with organisational goals. Holds AWS Associate and Terraform certifications, reflecting a strong commitment to continuous learning and delivering impactful results.
-
+Senior Software Engineer (Java/Python/Go/Node/TypeScript) with 12+ years of experienced in building front-end applications using Angular and React, and developing scalable backend REST APIs with Java Spring Boot. Skilled in designing data pipelines using PySpark, implementing serverless solutions with Python and Go (AWS Lambda), and deploying containerized applications using Docker and Kubernetes.
+Strong expertise in microservices, serverless, ETL, and event-driven architectures. Proven experience in cloud (AWS) and database migrations, as well as cost and performance optimization of distributed systems. Hands-on experience in application lifecycle management, including security, modernization, and release processes.
+Recognized for strong collaboration, stakeholder management, and mentoring, with a consistent track record of delivering high-quality, scalable systems. AWS Certified Associate and Terraform Certified, demonstrating commitment to continuous learning and impactful engineering.
 ---
 
 # 💻 Tech Stack:

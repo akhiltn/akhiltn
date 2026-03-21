@@ -10,6 +10,7 @@
 Senior Software Engineer (Java/Python/Go/Node/TypeScript) with 12+ years of experienced in building front-end applications using Angular and React, and developing scalable backend REST APIs with Java Spring Boot. Skilled in designing data pipelines using PySpark, implementing serverless solutions with Python and Go (AWS Lambda), and deploying containerized applications using Docker and Kubernetes.
 Strong expertise in microservices, serverless, ETL, and event-driven architectures. Proven experience in cloud (AWS) and database migrations, as well as cost and performance optimization of distributed systems. Hands-on experience in application lifecycle management, including security, modernization, and release processes.
 Recognized for strong collaboration, stakeholder management, and mentoring, with a consistent track record of delivering high-quality, scalable systems. AWS Certified Associate and Terraform Certified, demonstrating commitment to continuous learning and impactful engineering.
+
 ---
 
 # 💻 Tech Stack:
